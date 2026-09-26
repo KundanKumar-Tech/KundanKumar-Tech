@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,14&height=220&section=header&text=Hi%20there,%20I'm%20Kundan%20Kumar%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=62&descSize=18&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,14&height=225&section=header&text=Hi%20there,%20I'm%20Kundan%20Kumar%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20MERN%20Developer%20%7C%20GenAI%20%26%20Agentic%20AI%20Engineer%20%7C%20Cloud&descAlignY=62&descSize=17&descAlign=50" width="100%" alt="Header" />
 </div>
 
 <div align="center">
@@ -15,19 +15,27 @@
 
 ### 👨‍💻 About Me
 
-Passionate **Full Stack MERN Developer** with a deep focus on building scalable web architectures, microservices, and modern cloud deployment pipelines. I bridge the gap between robust backend APIs and fluid, responsive frontend user interfaces, backed by production-grade cloud & DevOps practices.
+Passionate **Full Stack MERN Developer & GenAI / Agentic AI Engineer** with deep expertise in architecting intelligent, scalable web applications and autonomous AI systems. I specialize in integrating **Generative AI, LangChain.js, and Agentic Workflows** directly into high-throughput Node.js backend environments, backed by robust cloud and microservices infrastructure.
 
-- 🔭 **Currently Building:** AI-integrated enterprise platforms, RAG-powered assistants & cloud-native full-stack systems.
+- 🤖 **Agentic & GenAI in Node.js:** Building autonomous AI agents, tool-calling workflows with **LangChain.js**, conversational chatbots, and custom **RAG (Retrieval-Augmented Generation)** pipelines.
+- 🔭 **Currently Building:** Enterprise-grade AI analytics platforms, local & cloud LLM integrations, and microservices on the cloud.
 - 💼 **Professional Experience:** Software Engineer at **Veracity**, engineering scalable web applications and high-availability APIs.
 - ☁️ **Cloud & Infrastructure:** Hands-on with **AWS (EC2, S3), Docker, Kubernetes, CI/CD Pipelines, and Nginx/Vite Reverse Proxies**.
-- 🧠 **AI & Modern Tech:** Integrating local LLMs (Ollama), RAG pipelines, and vector-driven semantic search into web applications.
-- 🎯 **Career Focus:** Full Stack MERN + Cloud Architecture, Microservices, and Scalable Backend Systems.
+- 🎯 **Core Focus:** Merging Full Stack MERN Architecture with Modern Generative AI & Autonomous Agent Systems.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
+
+#### 🤖 Generative AI, Agentic Systems & LLMs
+![LangChain](https://img.shields.io/badge/LangChain.js-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI_Workflows-7928CA?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration_(Ollama%20%7C%20OpenAI)-412991?style=for-the-badge&logo=probot&logoColor=white)
+![AI Chatbots](https://img.shields.io/badge/Intelligent_AI_Chatbots-008080?style=for-the-badge&logo=chatbot&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines_%26_Embeddings-FF6F00?style=for-the-badge&logo=semanticweb&logoColor=white)
+![GenAI Node](https://img.shields.io/badge/GenAI_in_Node.js_Runtime-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### 🌐 Frontend Development
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -73,26 +81,28 @@ Passionate **Full Stack MERN Developer** with a deep focus on building scalable 
     <td width="50%">
       <h3 align="center">🍃 Fruit Intelligence & E-Cart Platform</h3>
       <p align="center">
-        <b>Full Stack MERN + RAG AI Engine</b>
+        <b>Full Stack MERN + RAG & Local LLM Assistant</b>
       </p>
       <p>
         • Enterprise analytics platform featuring custom nutrition RAG assistant, taxonomy clustering & anomaly detection.<br/>
+        • Integrated local LLMs (Ollama) with context injection, conversational memory & automated prompt engineering.<br/>
         • Implemented dual-layer authentication (Google OAuth + Email OTP verification) and SSL-secured Vite reverse proxy architecture.<br/>
-        • Powered by Node.js, Express, MSSQL, React 18, Tailwind CSS, and local LLM pipelines.
+        • Powered by Node.js, Express, MSSQL, React 18, and Tailwind CSS.
       </p>
       <p align="center">
         <a href="https://github.com/KundanKumar-Tech/fruitcart"><b>Explore Repository »</b></a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">☁️ Cloud Native Microservices</h3>
+      <h3 align="center">🤖 Autonomous Agent & LangChain.js Engine</h3>
       <p align="center">
-        <b>Dockerized Cloud Backend Architecture</b>
+        <b>Agentic AI Workflow & Chatbot Platform</b>
       </p>
       <p>
-        • Scalable microservices pattern decoupled with message queues, Redis caching layer and JWT security gateway.<br/>
-        • Automated CI/CD deployment pipelines using GitHub Actions with containerized Docker deployment on AWS EC2/ECS.<br/>
-        • Monitored with centralized logging, error tracking & health probe endpoints.
+        • Multi-agent system utilizing LangChain.js with custom tool-calling, external API integrations & reasoning chains.<br/>
+        • High-accuracy vector retrieval (RAG) for question answering across enterprise unstructured knowledge bases.<br/>
+        • Deployed in a Node.js microservice architecture with Redis caching, Docker containerization & AWS cloud deployment.<br/>
+        • Real-time streaming responses with Server-Sent Events (SSE) and WebSockets.
       </p>
       <p align="center">
         <a href="https://github.com/KundanKumar-Tech"><b>Explore Architecture »</b></a>
