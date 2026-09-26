@@ -1,130 +1,147 @@
-# 👋 Hi, I'm Kundan Kumar
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,14&height=220&section=header&text=Hi%20there,%20I'm%20Kundan%20Kumar%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=62&descSize=18&descAlign=50" width="100%" alt="Header" />
+</div>
 
-### 💻 Full-Stack Developer | DevOps Enthusiast | Generative AI Learner
+<div align="center">
 
-I'm a passionate Full-Stack Developer who enjoys building modern,
-scalable and user-friendly applications.
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+  [![GitHub](https://img.shields.io/badge/GitHub-KundanKumar--Tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KundanKumar-Tech)
+  [![Email](https://img.shields.io/badge/Email-kumarkdnsah%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarkdnsah@gmail.com)
+  [![Profile Views](https://komarev.com/ghpvc/?username=KundanKumar-Tech&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/KundanKumar-Tech)
 
-I love exploring new technologies, solving real-world problems,
-and turning ideas into working products. 🚀
-
----
-
-## 🚀 About Me
-
-🔭 **I'm currently working on**  
-→ Full-Stack Web Development projects
-
-🤝 **I'm looking to collaborate on**  
-→ Open-source projects, web applications & innovative ideas
-
-🆘 **I'm looking for help with**  
-→ System Design, DevOps, Kubernetes & scalable applications
-
-🌱 **I'm currently learning**  
-→ Generative AI 🤖
-
-💬 **Ask me about**  
-→ JavaScript, React, Node.js, Databases, Git & Web Development
-
-⚡ **Fun fact**  
-→ I enjoy turning ideas into real-world applications 🚀
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 About Me
 
-### 🌐 Frontend
+Passionate **Full Stack MERN Developer** with a deep focus on building scalable web architectures, microservices, and modern cloud deployment pipelines. I bridge the gap between robust backend APIs and fluid, responsive frontend user interfaces, backed by production-grade cloud & DevOps practices.
+
+- 🔭 **Currently Building:** AI-integrated enterprise platforms, RAG-powered assistants & cloud-native full-stack systems.
+- 💼 **Professional Experience:** Software Engineer at **Veracity**, engineering scalable web applications and high-availability APIs.
+- ☁️ **Cloud & Infrastructure:** Hands-on with **AWS (EC2, S3), Docker, Kubernetes, CI/CD Pipelines, and Nginx/Vite Reverse Proxies**.
+- 🧠 **AI & Modern Tech:** Integrating local LLMs (Ollama), RAG pipelines, and vector-driven semantic search into web applications.
+- 🎯 **Career Focus:** Full Stack MERN + Cloud Architecture, Microservices, and Scalable Backend Systems.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+#### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+#### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=rest&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![WebSockets](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+#### 🗄️ Databases & Caching
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### ☁️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+#### ☁️ Cloud, DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### 📊 Data & Analytics
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🤖 Currently Learning
-![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kundankumar-Tech&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kundankumar-Tech&layout=compact&theme=tokyonight&hide_border=true" />
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🍃 Fruit Intelligence & E-Cart Platform</h3>
+      <p align="center">
+        <b>Full Stack MERN + RAG AI Engine</b>
+      </p>
+      <p>
+        • Enterprise analytics platform featuring custom nutrition RAG assistant, taxonomy clustering & anomaly detection.<br/>
+        • Implemented dual-layer authentication (Google OAuth + Email OTP verification) and SSL-secured Vite reverse proxy architecture.<br/>
+        • Powered by Node.js, Express, MSSQL, React 18, Tailwind CSS, and local LLM pipelines.
+      </p>
+      <p align="center">
+        <a href="https://github.com/KundanKumar-Tech/fruitcart"><b>Explore Repository »</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">☁️ Cloud Native Microservices</h3>
+      <p align="center">
+        <b>Dockerized Cloud Backend Architecture</b>
+      </p>
+      <p>
+        • Scalable microservices pattern decoupled with message queues, Redis caching layer and JWT security gateway.<br/>
+        • Automated CI/CD deployment pipelines using GitHub Actions with containerized Docker deployment on AWS EC2/ECS.<br/>
+        • Monitored with centralized logging, error tracking & health probe endpoints.
+      </p>
+      <p align="center">
+        <a href="https://github.com/KundanKumar-Tech"><b>Explore Architecture »</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KundanKumar-Tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KundanKumar-Tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+</div>
 
-<img src="https://streak-stats.demolab.com?user=Kundankumar-Tech&theme=tokyonight&hide_border=true" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KundanKumar-Tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
+<div align="center">
+  <a href="https://github.com/KundanKumar-Tech">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KundanKumar-Tech&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%" />
+  </a>
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
-[![Kundan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kundankumar-Tech&theme=tokyo-night&hide_border=true)](https://github.com/Kundankumar-Tech)
-
----
-
-## 🚀 What I Build
-
-- 🌐 Full-Stack Web Applications
-- ⚛️ React-based Frontend Applications
-- 🟢 Node.js Backend & REST APIs
-- 🗄️ Database-driven Applications
-- 🐳 Dockerized Applications
-- ☸️ Kubernetes-based Deployments
-- 📊 Business Intelligence Dashboards
-- 🤖 Generative AI Projects
-
----
-
-## 🎯 2026 Learning Goals
-
-- 🤖 Generative AI
-- 🧠 AI-powered applications
-- ☁️ Cloud & DevOps
-- ☸️ Kubernetes
-- 🏗️ System Design
-- 🚀 Scalable Full-Stack Applications
-
----
-
-## 🌐 Connect With Me
+### 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/Kundankumar-Tech">
-<img src="https://img.shields.io/badge/GitHub-Kundankumar--Tech-181717?style=for-the-badge&logo=github" />
-</a>
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:kumarkdnsah@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send%20Email-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/KundanKumar-Tech">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
 
 </div>
 
----
+<br/>
 
-## ⭐ Thanks for visiting my profile!
-
-### 🚀 Let's build something amazing together!
+<div align="center">
+  <sub>Designed & Developed with 💻 by <b>Kundan Kumar</b></sub>
+</div>
