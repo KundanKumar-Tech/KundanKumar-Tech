@@ -1,0 +1,68 @@
+<svg width="900" height="350" viewBox="0 0 900 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow-cyan" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="40" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="glow-purple" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="60" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <linearGradient id="grad-text" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F5A0" />
+      <stop offset="100%" stop-color="#00D9F5" />
+    </linearGradient>
+    <linearGradient id="grad-card" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.05)" />
+      <stop offset="100%" stop-color="rgba(255,255,255,0.01)" />
+    </linearGradient>
+    <style>
+      .title { font-family: 'Segoe UI', Arial, sans-serif; font-size: 24px; font-weight: 600; fill: #A1A1AA; }
+      .name { font-family: 'Segoe UI', Arial, sans-serif; font-size: 72px; font-weight: 900; fill: url(#grad-text); }
+      .role { font-family: 'Segoe UI', Arial, sans-serif; font-size: 20px; font-weight: bold; fill: #FF4785; }
+      .desc { font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; fill: #D4D4D8; }
+      .pill-text { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; font-weight: bold; fill: #00F5A0; }
+    </style>
+  </defs>
+
+  <!-- Background base -->
+  <rect width="900" height="350" rx="20" fill="#090B10"/>
+
+  <!-- Glowing Orbs -->
+  <circle cx="150" cy="50" r="100" fill="#00F5A0" opacity="0.12" filter="url(#glow-cyan)" />
+  <circle cx="750" cy="250" r="150" fill="#7928CA" opacity="0.15" filter="url(#glow-purple)" />
+
+  <!-- Grid Pattern -->
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.02)" stroke-width="1"/>
+  </pattern>
+  <rect width="900" height="350" fill="url(#grid)" />
+
+  <!-- Pill -->
+  <rect x="60" y="50" width="130" height="30" rx="15" fill="rgba(0, 245, 160, 0.1)" stroke="#00F5A0" stroke-width="1" />
+  <text x="125" y="69" class="pill-text" text-anchor="middle">🚀 Full Stack MERN</text>
+
+  <!-- Texts -->
+  <text x="60" y="125" class="title">Hi there, I'm</text>
+  <text x="58" y="200" class="name">Kundan Kumar</text>
+  
+  <rect x="60" y="235" width="8" height="8" fill="#FF4785" rx="2" />
+  <text x="80" y="243" class="role">Action: Agentic AI Engineer</text>
+  
+  <text x="60" y="280" class="desc">Architecting intelligent, scalable web applications and autonomous AI systems.</text>
+  <text x="60" y="305" class="desc">Expertise in GenAI, LangChain.js, Node.js, and Cloud Infrastructure.</text>
+
+  <!-- Glassmorphism Card (Right side visual) -->
+  <rect x="620" y="60" width="230" height="230" rx="20" fill="url(#grad-card)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+  
+  <!-- Abstract Design in Card -->
+  <circle cx="735" cy="140" r="60" fill="none" stroke="#7928CA" stroke-width="2" stroke-dasharray="10 5" opacity="0.5"/>
+  <circle cx="735" cy="140" r="45" fill="none" stroke="#00F5A0" stroke-width="2" stroke-dasharray="5 5" opacity="0.8"/>
+  <circle cx="735" cy="140" r="30" fill="url(#grad-text)" opacity="0.9" />
+  
+  <!-- Floating dots -->
+  <circle cx="670" cy="90" r="4" fill="#FF4785" />
+  <circle cx="800" cy="190" r="6" fill="#00F5A0" />
+  
+  <text x="735" y="240" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="bold" fill="#A1A1AA" text-anchor="middle">Agentic Workflow</text>
+</svg>
